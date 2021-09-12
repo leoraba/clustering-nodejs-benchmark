@@ -1,0 +1,13 @@
+{
+  "name": "clustering-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start-server": "node server.js",
+    "start-cluster": "node cluster.js"
+  },
+  "author": "Leonardo Rivera",
+  "license": "ISC",
+  "devDependencies": {}
+}
